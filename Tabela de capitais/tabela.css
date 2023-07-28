@@ -1,0 +1,22 @@
+
+tr:hover { /*marca a linha que estiver com o mouse com cor diferente*/
+    background-color: rgb(6, 119, 218);
+}
+
+table,th,td{ /*colocar borda*/
+    border:1px solid black;
+}
+
+th{ /*deixar em negrito*/
+    background-color: aqua;
+}
+
+tr,td{ /*fazer uma linha*/
+    width: 100px;
+}
+th{ /*deixar em negrito*/
+    height: 40px;
+}
+td{ /*escrita*/
+    text-align: center;
+}
